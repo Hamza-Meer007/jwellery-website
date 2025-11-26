@@ -87,18 +87,7 @@ _A fully-featured, modern jewelry store e-commerce website with multiple layouts
    - Simply open `index.html` in your browser
    - Or use a local development server:
 
-   ```bash
-   # Using Python
-   python -m http.server 8000
 
-   # Using Node.js
-   npx serve
-
-   # Using PHP
-   php -S localhost:8000
-   ```
-
-3. **Navigate to** `http://localhost:8000`
 
 ---
 
